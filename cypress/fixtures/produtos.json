@@ -1,0 +1,24 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "34",
+        "cor": "Blue",
+        "quantidade": 2 
+
+    },
+
+    {
+        "nomeProduto": "Geo Insulated Jogging Pant",
+        "tamanho": "36",
+        "cor": "Red",
+        "quantidade": 3 
+
+    },
+
+    {
+        "nomeProduto": "Helena Hooded Fleece",
+        "tamanho": "S",
+        "cor": "Gray",
+        "quantidade": 1 
+    }
+]
