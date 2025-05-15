@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run -- browser firefox",
+    "test": "npx cypress run -- browser brave",
     "cy:dash" : "npx cypress run --record --key 2922541d-041b-4644-9767-b433e6df0b34"
   },
   "repository": {
