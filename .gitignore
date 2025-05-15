@@ -1,4 +1,4 @@
-cypress/node_modules/
+node_modules/
 
-videos/
-screenshots/
+cypress/videos/
+cypress/screenshots/
